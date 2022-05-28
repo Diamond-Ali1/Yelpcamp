@@ -1,0 +1,173 @@
+#card > p{
+				font-size:10.5px;
+}
+#card i{
+				font-size:11px;
+}
+#card1{
+				font-size:13px;
+}
+#card #cash{
+				font-family: Garamond, serif;
+}
+#belowcard{
+				font-size:11px;
+}
+#button{
+				font-size:11px;
+}
+#arrow{
+				font-size:13.5px;
+}
+#h11{
+				font-weight:1000;
+				font-size:24px;
+}
+form label{
+			font-size:14px;	
+			opacity:0.75;
+}
+form input{
+				font-size:13px;
+				opacity:0.5;
+				background:#DFDFDF;
+}
+form button{
+				font-size:13px;
+				width:320px;		
+}
+#sec1, #sec2{
+				background:#f9f6f1;
+}
+#sec2 h4{
+				font-weight:1000 ;
+				font-size:21px;
+}
+#sec2{
+				font-size:12px;
+}
+#sec2 input{
+				width:150px;
+				border-left:none;
+				border-bottom:1px solid #ccc;
+				border-right:1px solid #ccc;
+				border-top:1px solid #ccc;
+				outline:none;
+}
+#sec2 input:active{
+				border:10x solid #ccc;
+}
+#fas{
+				font-size:12px;
+				margin-top:px ;
+				background:white;
+				border-bottom:1px solid #ccc;
+				border-left:1px solid #ccc;
+				border-top:1px solid #ccc;
+				padding:14px 0px 9px 14px;
+				border-bottom-left-radius: 4px;
+				border-top-left-radius: 4px;
+}
+#sec2 a{
+				color:black;
+				opacity:0.7;
+}
+#sec12 h6{
+				line-height:25px;
+				font-size:12px;
+}		
+#testimony{
+			
+				font-size:11px;
+}
+#testimonial #child{
+				line-height:17px;
+				font-size:11px;
+				margin-top:1px;
+				margin-left:10px;
+}
+#testimonial{
+				margin-left:42px;
+				margin-bottom:80px;
+}
+#testimonial p{
+				opacity:0.6;
+}
+form + div{
+				font-size:12px;
+}
+#formbtn{
+				font-size:12px;
+}
+#sec3{
+				font-size:12px;
+}
+#sec3 button a{
+				font-size:12px;
+				text-decoration:none;
+				color:black;
+}
+#sec3 button a:hover{
+				color:white;
+}
+#he1 h1{
+				font-weight:1000;
+				font-size:28px;
+}
+#camp-form input{
+				border:none;
+				background:#ebebeb;
+				padding:11px;
+			 width:320px;
+				margin:12px 0 ;
+				font-size:12px;
+				outline:none;
+}
+#100h1{
+				font-weight:1000;
+}
+#navcent{
+				margin-left:10%;
+}
+#camp-form textarea{
+				background-color:#ebebeb;
+				border:none;
+				outline:none;
+				font-size:12px;
+				text-align:left;
+				color:#ebebeb;
+				opacity:0.7;
+}
+#camp-button{
+				font-size:12px;
+				width:318px;
+}
+#childdiv{
+				background:#faf5f1;
+}
+#childdiv p{
+				font-size:13px;
+}
+#childdiv ul{
+				font-size:13px;
+				padding:0;
+				margin:0;
+}
+#childdiv ul li{
+				list-style:none;
+				padding:6px 0;
+}
+#childdiv button{
+				font-size:12px;
+				padding:13px;
+}
+@media(min-width:1024px){
+				#childdiv{
+								height:auto;
+								width:76vw;
+				}
+				#desktop-img{
+								height:auto;
+								width:30vw;
+				}
+}
